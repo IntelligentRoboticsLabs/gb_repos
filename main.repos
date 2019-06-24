@@ -1,0 +1,5 @@
+repositories:
+  portaudio:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/BICA.git
+    version: master
