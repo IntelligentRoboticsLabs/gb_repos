@@ -3,3 +3,11 @@ repositories:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/BICA.git
     version: master
+  gb_robots:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/gb_robots.git
+    version: master
+  ROSPlan:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/ROSPlan.git
+    version: master
