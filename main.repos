@@ -23,7 +23,7 @@ repositories:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/sciroc.git
     version: master
-   gb_third_parties/ira_laser_tools
+  gb_third_parties/ira_laser_tools:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/ira_laser_tools.git
     version: kinetic
