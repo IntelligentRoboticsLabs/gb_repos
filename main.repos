@@ -31,15 +31,24 @@ repositories:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/ira_laser_tools.git
     version: kinetic
-  gb_dialog:
+  dialog/gb_dialog:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/gb_dialog.git
     version: master
-  gb_dialog/dialogflow_ros:
+  dialog/dialogflow_ros:
     type: git
     url: https://github.com/jginesclavero/dialogflow_ros.git
     version: master
-   gb_dialog/sound_play:
+  dialog/sound_play:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/audio_common-release.git
     version: release/kinetic/sound_play
+  perception/gb_perception:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/gb_perception.git
+    version: master
+   perception/zbar_ros:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/zbar_ros.git
+    version: indigo-devel
+    
