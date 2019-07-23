@@ -19,6 +19,10 @@ repositories:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/gb_navigation.git
     version: master
+  navigation/person_navigation:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/person_navigation.git
+    version: master
   sciroc:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/sciroc.git
@@ -27,3 +31,15 @@ repositories:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/ira_laser_tools.git
     version: kinetic
+  gb_dialog:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/gb_dialog.git
+    version: master
+  gb_dialog/dialogflow_ros:
+    type: git
+    url: https://github.com/jginesclavero/dialogflow_ros.git
+    version: master
+   gb_dialog/sound_play:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/audio_common-release.git
+    version: release/kinetic/sound_play
