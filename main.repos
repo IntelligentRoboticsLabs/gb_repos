@@ -47,8 +47,7 @@ repositories:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/gb_perception.git
     version: master
-   perception/zbar_ros:
+  perception/zbar_ros:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/zbar_ros.git
     version: indigo-devel
-    
