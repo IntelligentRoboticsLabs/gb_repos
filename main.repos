@@ -51,3 +51,11 @@ repositories:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/zbar_ros.git
     version: indigo-devel
+  gb_third_parties/pal_msgs:
+    type: git
+    url: https://github.com/pal-robotics/pal_msgs
+    version: indigo-devel
+  gb_third_parties/humanoid_msgs:
+    type: git
+    url: https://github.com/ahornung/humanoid_msgs.git
+    version: master
