@@ -59,3 +59,7 @@ repositories:
     type: git
     url: https://github.com/ahornung/humanoid_msgs.git
     version: master
+  gb_datahub:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/gb_datahub.git
+    version: master
