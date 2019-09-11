@@ -23,6 +23,10 @@ repositories:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/person_navigation.git
     version: master
+  navigation/social_navigation:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/social_navigation.git
+    version: master
   sciroc:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/sciroc.git
