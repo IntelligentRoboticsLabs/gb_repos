@@ -1,73 +1,17 @@
 repositories:
-  BICA:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/BICA.git
-    version: master
-  gb_robots:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/gb_robots.git
-    version: master
-  ROSPlan:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/ROSPlan.git
-    version: master
-  navigation/topological_navigation:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/topological_navigation.git
-    version: master
-  navigation/gb_navigation:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/gb_navigation.git
-    version: master
-  navigation/person_navigation:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/person_navigation.git
-    version: master
-  navigation/social_navigation:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/social_navigation.git
-    version: master
-  sciroc:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/sciroc.git
-    version: master
-  gb_third_parties/ira_laser_tools:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/ira_laser_tools.git
-    version: kinetic
-  hri/gb_dialog:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/gb_dialog.git
-    version: master
-  hri/dialogflow_ros:
-    type: git
-    url: https://github.com/jginesclavero/dialogflow_ros.git
-    version: master
-  hri/sound_play:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/audio_common-release.git
-    version: release/kinetic/sound_play
   perception/gb_perception:
     type: git
     url: https://github.com/IntelligentRoboticsLabs/gb_perception.git
+    version: eloquent
+  core/cascade_lifecycle:
+    type: git
+    url: https://github.com/fmrico/cascade_lifecycle
     version: master
-  perception/zbar_ros:
+  core/ros2_knowledge_graph:
     type: git
-    url: https://github.com/IntelligentRoboticsLabs/zbar_ros.git
-    version: indigo-devel
-  perception/gb_visual_detection_3d:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/gb_visual_detection_3d.git
+    url: https://github.com/fmrico/ros2_knowledge_graph.git
     version: master
-  gb_third_parties/pal_msgs:
+  core/ros2_planning_system:
     type: git
-    url: https://github.com/pal-robotics/pal_msgs
-    version: indigo-devel
-  gb_third_parties/humanoid_msgs:
-    type: git
-    url: https://github.com/ahornung/humanoid_msgs.git
-    version: master
-  gb_datahub:
-    type: git
-    url: https://github.com/IntelligentRoboticsLabs/gb_datahub.git
+    url: https://github.com/IntelligentRoboticsLabs/ros2_planning_system.git
     version: master
